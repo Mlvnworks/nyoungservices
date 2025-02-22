@@ -563,7 +563,11 @@ footer img {
     font-size: 14px;
   }
 
+  footer {
+    padding-block: 10px;
+  }
+
   footer img {
-    width: 250px;
+    width: 120px;
   }
 }
