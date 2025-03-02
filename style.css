@@ -15,6 +15,20 @@ body {
   margin-inline: auto;
 }
 
+nav,
+.offcanvas-body,
+.offcanvas-header {
+  background-color: #053366;
+}
+
+.offcanvas-header .btn-close {
+  background: none;
+}
+
+nav a {
+  color: #fff !important;
+}
+
 #showcase-section {
   display: flex;
   justify-content: center;
