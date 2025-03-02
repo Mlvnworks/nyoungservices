@@ -444,11 +444,11 @@ footer img {
   }
 
   #seventh-page {
-    font-size: 21px;
+    font-size: 20px;
   }
 
   #seventh-page button {
-    font-size: 21px;
+    font-size: 20px;
   }
 }
 
@@ -475,17 +475,17 @@ footer img {
     padding-inline: 100px;
   }
 
-  /* #seventh-page {
+  #seventh-page {
     font-size: 25px;
-  } */
+  }
 
   #seventh-page > div p:nth-of-type(2) {
     font-size: 23px;
   }
 
-  /* #seventh-page button {
+  #seventh-page button {
     font-size: 17px;
-  } */
+  }
 }
 
 @media (max-width: 767px) {
@@ -634,7 +634,7 @@ footer img {
   }
 
   #seventh-page {
-    /* font-size: 18px; */
+    font-size: 19px;
     padding-inline: 15px;
   }
 
